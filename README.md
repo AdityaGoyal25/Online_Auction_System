@@ -1,4 +1,4 @@
-# Onlline_Auction_System
+# Online Auction System
 #Overview
 Any auction is a long and sensitive procedure in which a lot of information has to be taken care of, ranging from details about the bidders to their bids and so on. The aim of this project is to provide a user-friendly website wherein users can buy and sell products via an auction system in a hassle-free manner.
 
